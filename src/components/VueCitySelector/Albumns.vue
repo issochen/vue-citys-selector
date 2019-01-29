@@ -44,7 +44,7 @@ export default {
       for (let i = 0; i < this.$refs.albumns.length ; i++) {
         offset.push(this.$refs.albumns[i].offsetTop + mH)
       }
-      return offset
+      return offset 
     }
   },
   mounted () {

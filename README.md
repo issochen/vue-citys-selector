@@ -39,3 +39,8 @@ npm install --save vue-citys-selector
 ```
 
 ### 城市数据格式
+热门城市数据格式[hotCitys](https://github.com/issochen/vue-city-selector/blob/master/src/assets/hotCitys.js)
+所有城市数据格式[citys](https://github.com/issochen/vue-city-selector/blob/master/src/assets/citys.js)
+
+
+

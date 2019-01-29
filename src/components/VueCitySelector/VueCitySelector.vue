@@ -264,7 +264,9 @@ html, body{
   font-size: .28rem;
   font-weight: bold;
   color: #999;
-  right: .4rem
+  right: 0;
+  width: 1.2rem;
+  text-align: center;
 }
 /* 当前城市部分 */
 .curCity{
